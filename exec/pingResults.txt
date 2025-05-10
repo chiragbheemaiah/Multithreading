@@ -1,0 +1,10 @@
+Success
+Some post processing goes here
+07:f8b0:4002:c09::8a)) 56 data bytes
+64 bytes from yb-in-f138.1e100.net (2607:f8b0:4002:c09::8a): icmp_seq=1 ttl=106 time=24.9 ms
+64 bytes from yb-in-f138.1e100.net (2607:f8b0:4002:c09::8a): icmp_seq=2 ttl=106 time=27.9 ms
+64 bytes from yb-in-x8a.1e100.net (2607:f8b0:4002:c09::8a): icmp_seq=3 ttl=106 time=21.2 ms
+
+--- google.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2003ms
+rtt min/avg/max/mdev = 21.228/24.659/27.856/2.710 ms
